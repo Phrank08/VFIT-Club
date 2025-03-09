@@ -329,6 +329,7 @@ body .section-hero .hero-box h1 {
   text-shadow: 2px 5px 5px rgba(0, 0, 0, 0.7), 0px -4px 12px rgba(0, 0, 0, 0.5);
   -webkit-animation: moveInLeft 0.5s ease-out;
   animation: moveInLeft 0.5s ease-out;
+  width: 600px;
 }
 
 @media only screen and (max-width: 50em) {
@@ -342,6 +343,7 @@ body .section-hero .hero-box p {
   text-shadow: 2px 7px 5px rgba(0, 0, 0, 0.4), 0px -4px 10px rgba(0, 0, 0, 0.5);
   -webkit-animation: moveInRight 0.5s ease-out;
   animation: moveInRight 0.5s ease-out;
+  width: 800px;
 }
 
 body .section-hero .hero-box .hero-box-buttons {
